@@ -6,4 +6,4 @@ This exercise accomplishes the following tasks:
 
   3. Clustering Cryptocurrencies Using K-Means: Predict clusters using the cryptocurrencies data with the KMeans algorithm from sklearn.
 
-  4. Visualizing Results: Create some plots and data tables to present your results.
+  4. Visualizing Results: Created plots and data tables to present results.
